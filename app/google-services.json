@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319001408046",
+    "firebase_url": "https://lab12test-default-rtdb.firebaseio.com",
+    "project_id": "lab12test",
+    "storage_bucket": "lab12test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319001408046:android:5ba2ff68389715e479a5bf",
+        "android_client_info": {
+          "package_name": "com.example.lab12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319001408046-vs72crr7rl891ni7t02at1f7d357soac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7GmtHSGoTUvgqCU3RGRFOHjEjUtEHUkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319001408046-vs72crr7rl891ni7t02at1f7d357soac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
